@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1092072407754",
+    "firebase_url": "https://libapp-afc9c.firebaseio.com",
+    "project_id": "libapp-afc9c",
+    "storage_bucket": "libapp-afc9c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1092072407754:android:e255867a46f4068fecea33",
+        "android_client_info": {
+          "package_name": "com.example.bookrate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1092072407754-ik1hio13j3h6n6ctat0rinhacn5inls7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.bookrate",
+            "certificate_hash": "b6b40ced4e85b84b4e92bab1bfb0e9e2a77adc8c"
+          }
+        },
+        {
+          "client_id": "1092072407754-9v5ggbqainrl0vh97lf5gom4ap8mbl8o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAtIJ7MPtLMwF-AqNKb_9b92H3Tjekjtv0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1092072407754-9v5ggbqainrl0vh97lf5gom4ap8mbl8o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
